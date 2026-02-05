@@ -1,0 +1,192 @@
+[
+  {
+    "id": "ANI-001",
+    "name": "Bento",
+    "description": "Een energieke Golden Retriever die houdt van lange wandelingen en apporteren.",
+    "age": 3,
+    "isActive": true,
+    "birthDate": "2021-05-12",
+    "imageUrl": "https://images.unsplash.com/photo-1552053831-71594a27632d",
+    "species": "Hond",
+    "hobbies": ["Zwemmen", "Apporteren"],
+    "medicalRecord": {
+      "id": "MED-001",
+      "chipNumber": "985-121-000-456",
+      "lastVaccination": "2024-01-15",
+      "bloodType": "DEA 1.1",
+      "isSterilized": true,
+      "healthNote": "Kerngezond, lichte allergie voor pollen."
+    }
+  },
+  {
+    "id": "ANI-002",
+    "name": "Luna",
+    "description": "Een rustige Siamese kat die het liefst op de vensterbank ligt te spinnen.",
+    "age": 7,
+    "isActive": true,
+    "birthDate": "2017-10-31",
+    "imageUrl": "https://images.unsplash.com/photo-1513245535767-0e2106b5a3cc",
+    "species": "Kat",
+    "hobbies": ["Vogels kijken", "Laserspelletjes"],
+    "medicalRecord": {
+      "id": "MED-002",
+      "chipNumber": "985-121-000-789",
+      "lastVaccination": "2023-11-20",
+      "bloodType": "A",
+      "isSterilized": true,
+      "healthNote": "Heeft dieetvoer nodig voor de nieren."
+    }
+  },
+  {
+    "id": "ANI-003",
+    "name": "Turbo",
+    "description": "Een Griekse landschildpad die verrassend snel is als er sla in de buurt is.",
+    "age": 12,
+    "isActive": false,
+    "birthDate": "2012-03-15",
+    "imageUrl": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7",
+    "species": "Reptiel",
+    "hobbies": ["Sla eten", "Zonnen"],
+    "medicalRecord": {
+      "id": "MED-003",
+      "chipNumber": "NON-CHIPPED-03",
+      "lastVaccination": "2022-05-10",
+      "bloodType": "Unknown",
+      "isSterilized": false,
+      "healthNote": "Schild vertoont lichte slijtage."
+    }
+  },
+  {
+    "id": "ANI-004",
+    "name": "Pip",
+    "description": "Een vrolijke parkiet die deuntjes van bekende popliedjes nafluit.",
+    "age": 1,
+    "isActive": true,
+    "birthDate": "2023-01-20",
+    "imageUrl": "https://images.unsplash.com/photo-1522926193917-29690d23558d",
+    "species": "Vogel",
+    "hobbies": ["Zingen", "Spiegelen"],
+    "medicalRecord": {
+      "id": "MED-004",
+      "chipNumber": "RING-BE-2023-99",
+      "lastVaccination": "2024-02-01",
+      "bloodType": "Unknown",
+      "isSterilized": false,
+      "healthNote": "Zeer actief, geen bijzonderheden."
+    }
+  },
+  {
+    "id": "ANI-005",
+    "name": "Shadow",
+    "description": "Een stoere Duitse Herder met een hart van goud.",
+    "age": 5,
+    "isActive": true,
+    "birthDate": "2019-08-05",
+    "imageUrl": "https://images.unsplash.com/photo-1589944191495-c015088a8c12",
+    "species": "Hond",
+    "hobbies": ["Speuren", "Rennen"],
+    "medicalRecord": {
+      "id": "MED-005",
+      "chipNumber": "985-121-000-111",
+      "lastVaccination": "2023-09-12",
+      "bloodType": "DEA 1.2",
+      "isSterilized": true,
+      "healthNote": "Lichte heupdysplasie, moet op gewicht blijven."
+    }
+  },
+  {
+    "id": "ANI-006",
+    "name": "Snorre",
+    "description": "Een Maine Coon met een indrukwekkende vacht en een zacht karakter.",
+    "age": 4,
+    "isActive": true,
+    "birthDate": "2020-11-12",
+    "imageUrl": "https://images.unsplash.com/photo-1533738363-b7f9aef128ce",
+    "species": "Kat",
+    "hobbies": ["Klimmen", "Borstelen"],
+    "medicalRecord": {
+      "id": "MED-006",
+      "chipNumber": "985-121-000-222",
+      "lastVaccination": "2024-01-30",
+      "bloodType": "B",
+      "isSterilized": true,
+      "healthNote": "Vachtverzorging is cruciaal tegen klitten."
+    }
+  },
+  {
+    "id": "ANI-007",
+    "name": "Bubbles",
+    "description": "Een goudvis die rustgevend rondzwemt in zijn ruime aquarium.",
+    "age": 2,
+    "isActive": true,
+    "birthDate": "2022-06-30",
+    "imageUrl": "https://images.unsplash.com/photo-1522060294678-57ca2f5271f4",
+    "species": "Vis",
+    "hobbies": ["Bellen blazen"],
+    "medicalRecord": {
+      "id": "MED-007",
+      "chipNumber": "N/A",
+      "lastVaccination": "2023-01-01",
+      "bloodType": "Unknown",
+      "isSterilized": false,
+      "healthNote": "Gevoelig voor waterkwaliteit."
+    }
+  },
+  {
+    "id": "ANI-008",
+    "name": "Knabbel",
+    "description": "Een dwergkonijn dat gespecialiseerd is in het ontsnappen.",
+    "age": 2,
+    "isActive": true,
+    "birthDate": "2022-04-14",
+    "imageUrl": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308",
+    "species": "Knaagdier",
+    "hobbies": ["Graven", "Wortels eten"],
+    "medicalRecord": {
+      "id": "MED-008",
+      "chipNumber": "985-121-000-333",
+      "lastVaccination": "2023-12-10",
+      "bloodType": "Unknown",
+      "isSterilized": true,
+      "healthNote": "Tanden moeten regelmatig gecontroleerd worden."
+    }
+  },
+  {
+    "id": "ANI-009",
+    "name": "Igor",
+    "description": "Een verlegen leguaan die graag op zijn favoriete tak zit.",
+    "age": 6,
+    "isActive": false,
+    "birthDate": "2018-09-22",
+    "imageUrl": "https://images.unsplash.com/photo-1504198458649-012800d46321",
+    "species": "Reptiel",
+    "hobbies": ["Stilzitten", "UV-baden"],
+    "medicalRecord": {
+      "id": "MED-009",
+      "chipNumber": "985-121-000-444",
+      "lastVaccination": "2022-10-20",
+      "bloodType": "Unknown",
+      "isSterilized": false,
+      "healthNote": "Heeft extra calcium nodig in het dieet."
+    }
+  },
+  {
+    "id": "ANI-010",
+    "name": "Bella",
+    "description": "Een zachte Berner Sennen die denkt dat ze een schoothondje is.",
+    "age": 8,
+    "isActive": true,
+    "birthDate": "2016-12-25",
+    "imageUrl": "https://images.unsplash.com/photo-1582562124811-c09040d0a901",
+    "species": "Hond",
+    "hobbies": ["Knuffelen", "Sneeuw"],
+    "medicalRecord": {
+      "id": "MED-010",
+      "chipNumber": "985-121-000-555",
+      "lastVaccination": "2024-01-05",
+      "bloodType": "DEA 1.1",
+      "isSterilized": true,
+      "healthNote": "Oudere hond, heeft milde gewrichtssteun nodig."
+    }
+  }
+]

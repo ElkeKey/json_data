@@ -1,0 +1,82 @@
+[
+  {
+    "id": "MED-001",
+    "chipNumber": "985-121-000-456",
+    "lastVaccination": "2024-01-15",
+    "bloodType": "DEA 1.1",
+    "isSterilized": true,
+    "healthNote": "Kerngezond, lichte allergie voor pollen."
+  },
+  {
+    "id": "MED-002",
+    "chipNumber": "985-121-000-789",
+    "lastVaccination": "2023-11-20",
+    "bloodType": "A",
+    "isSterilized": true,
+    "healthNote": "Heeft dieetvoer nodig voor de nieren."
+  },
+  {
+    "id": "MED-003",
+    "chipNumber": "NON-CHIPPED-03",
+    "lastVaccination": "2022-05-10",
+    "bloodType": "Unknown",
+    "isSterilized": false,
+    "healthNote": "Schild vertoont lichte slijtage."
+  },
+  {
+    "id": "MED-004",
+    "chipNumber": "RING-BE-2023-99",
+    "lastVaccination": "2024-02-01",
+    "bloodType": "Unknown",
+    "isSterilized": false,
+    "healthNote": "Zeer actief, geen bijzonderheden."
+  },
+  {
+    "id": "MED-005",
+    "chipNumber": "985-121-000-111",
+    "lastVaccination": "2023-09-12",
+    "bloodType": "DEA 1.2",
+    "isSterilized": true,
+    "healthNote": "Lichte heupdysplasie, moet op gewicht blijven."
+  },
+  {
+    "id": "MED-006",
+    "chipNumber": "985-121-000-222",
+    "lastVaccination": "2024-01-30",
+    "bloodType": "B",
+    "isSterilized": true,
+    "healthNote": "Vachtverzorging is cruciaal tegen klitten."
+  },
+  {
+    "id": "MED-007",
+    "chipNumber": "N/A",
+    "lastVaccination": "2023-01-01",
+    "bloodType": "Unknown",
+    "isSterilized": false,
+    "healthNote": "Gevoelig voor waterkwaliteit."
+  },
+  {
+    "id": "MED-008",
+    "chipNumber": "985-121-000-333",
+    "lastVaccination": "2023-12-10",
+    "bloodType": "Unknown",
+    "isSterilized": true,
+    "healthNote": "Tanden moeten regelmatig gecontroleerd worden."
+  },
+  {
+    "id": "MED-009",
+    "chipNumber": "985-121-000-444",
+    "lastVaccination": "2022-10-20",
+    "bloodType": "Unknown",
+    "isSterilized": false,
+    "healthNote": "Heeft extra calcium nodig in het dieet."
+  },
+  {
+    "id": "MED-010",
+    "chipNumber": "985-121-000-555",
+    "lastVaccination": "2024-01-05",
+    "bloodType": "DEA 1.1",
+    "isSterilized": true,
+    "healthNote": "Oudere hond, heeft milde gewrichtssteun nodig."
+  }
+]
