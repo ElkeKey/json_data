@@ -6,7 +6,7 @@
     "age": 3,
     "isActive": true,
     "birthDate": "2021-05-12",
-    "imageUrl": "https://images.unsplash.com/photo-1552053831-71594a27632d",
+    "imageUrl": "https://github.com/ElkeKey/json_data/blob/main/images/Bento.png?raw=true",
     "species": "Hond",
     "hobbies": ["Zwemmen", "Apporteren"],
     "medicalRecord": {
@@ -25,7 +25,7 @@
     "age": 7,
     "isActive": true,
     "birthDate": "2017-10-31",
-    "imageUrl": "https://images.unsplash.com/photo-1513245535767-0e2106b5a3cc",
+    "imageUrl": "https://github.com/ElkeKey/json_data/blob/main/images/Luna.png?raw=true",
     "species": "Kat",
     "hobbies": ["Vogels kijken", "Laserspelletjes"],
     "medicalRecord": {
@@ -44,7 +44,7 @@
     "age": 12,
     "isActive": false,
     "birthDate": "2012-03-15",
-    "imageUrl": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7",
+    "imageUrl": "https://github.com/ElkeKey/json_data/blob/main/images/Turbo.png?raw=true",
     "species": "Reptiel",
     "hobbies": ["Sla eten", "Zonnen"],
     "medicalRecord": {
@@ -63,7 +63,7 @@
     "age": 1,
     "isActive": true,
     "birthDate": "2023-01-20",
-    "imageUrl": "https://images.unsplash.com/photo-1522926193917-29690d23558d",
+    "imageUrl": "https://github.com/ElkeKey/json_data/blob/main/images/Pip.png?raw=true",
     "species": "Vogel",
     "hobbies": ["Zingen", "Spiegelen"],
     "medicalRecord": {
@@ -82,7 +82,7 @@
     "age": 5,
     "isActive": true,
     "birthDate": "2019-08-05",
-    "imageUrl": "https://images.unsplash.com/photo-1589944191495-c015088a8c12",
+    "imageUrl": "https://github.com/ElkeKey/json_data/blob/main/images/Shadow.png?raw=true",
     "species": "Hond",
     "hobbies": ["Speuren", "Rennen"],
     "medicalRecord": {
@@ -101,7 +101,7 @@
     "age": 4,
     "isActive": true,
     "birthDate": "2020-11-12",
-    "imageUrl": "https://images.unsplash.com/photo-1533738363-b7f9aef128ce",
+    "imageUrl": "https://github.com/ElkeKey/json_data/blob/main/images/Snorre.png?raw=true",
     "species": "Kat",
     "hobbies": ["Klimmen", "Borstelen"],
     "medicalRecord": {
@@ -120,7 +120,7 @@
     "age": 2,
     "isActive": true,
     "birthDate": "2022-06-30",
-    "imageUrl": "https://images.unsplash.com/photo-1522060294678-57ca2f5271f4",
+    "imageUrl": "https://github.com/ElkeKey/json_data/blob/main/images/Bubbles.png?raw=true",
     "species": "Vis",
     "hobbies": ["Bellen blazen"],
     "medicalRecord": {
@@ -139,7 +139,7 @@
     "age": 2,
     "isActive": true,
     "birthDate": "2022-04-14",
-    "imageUrl": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308",
+    "imageUrl": "https://github.com/ElkeKey/json_data/blob/main/images/Knabbel.png?raw=true",
     "species": "Knaagdier",
     "hobbies": ["Graven", "Wortels eten"],
     "medicalRecord": {
@@ -158,7 +158,7 @@
     "age": 6,
     "isActive": false,
     "birthDate": "2018-09-22",
-    "imageUrl": "https://images.unsplash.com/photo-1504198458649-012800d46321",
+    "imageUrl": "https://github.com/ElkeKey/json_data/blob/main/images/Igor.png?raw=true",
     "species": "Reptiel",
     "hobbies": ["Stilzitten", "UV-baden"],
     "medicalRecord": {
@@ -177,7 +177,7 @@
     "age": 8,
     "isActive": true,
     "birthDate": "2016-12-25",
-    "imageUrl": "https://images.unsplash.com/photo-1582562124811-c09040d0a901",
+    "imageUrl": "https://github.com/ElkeKey/json_data/blob/main/images/Bella.png?raw=true",
     "species": "Hond",
     "hobbies": ["Knuffelen", "Sneeuw"],
     "medicalRecord": {
